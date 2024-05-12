@@ -10,11 +10,11 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 - 📝 I write in-depth, long-form articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
 
 ## My Articles
-- [User Management in Wordpress]([https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/])
+- ![User Management in Wordpress]([https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/])
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
