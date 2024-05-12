@@ -8,6 +8,7 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 
 - 🔭 I'm currently learning Front-end Technologies.
 - 📝 I write articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
+- 👩‍💻Communinities - [FreeCodeCamp](https://discord.gg/freecodecamp), [theOdinProject](https://discord.gg/theodinproject)  
 
 ## My Articles
 - [Recent articles](https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/)
