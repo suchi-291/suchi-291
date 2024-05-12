@@ -7,7 +7,7 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 ## 🚀 About Me
 
 - 🔭 I'm currently learning Front-end Technologies.
-- 📝 I write in-depth, long-form articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
+- 📝 I write articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
 
 ## My Articles
 - [Recent articles](https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/)
