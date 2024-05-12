@@ -10,7 +10,7 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 - 📝 I write in-depth, long-form articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
 
 ## My Articles
-- [User Management in Wordpress](https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/)
+- [Recent articles](https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/)
 - [Design Hacks for your Websites to make them Look Great!](https://www.linkedin.com/pulse/take-your-website-from-good-great-easy-design-tips-ramachandrapurapu-ydiec/?trackingId=MNe10HG8RWi2QXU5dM5XDQ%3D%3D)
 - [SEO Optimization in Wordpress](https://www.linkedin.com/pulse/how-optimize-your-wordpress-site-search-engines-ramachandrapurapu-cnnmc/?trackingId=MNe10HG8RWi2QXU5dM5XDQ%3D%3D)
 
