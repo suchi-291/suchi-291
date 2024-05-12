@@ -2,7 +2,7 @@
 
 I am a passionate Front-end Developer, driven by a curiosity for technology and a love for Design. My journey involves delving into the world of Web Technologies, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<suchi-291>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
