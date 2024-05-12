@@ -1,4 +1,4 @@
-# Hi, I'm Suchitha Ramachandrapurapu! 🙋‍♀️
+# Hi, I'm Suchi! 🙋‍♀️
 
 I am a passionate Front-end Developer, driven by a curiosity for technology and a love for Design. My journey involves delving into the world of Web Technologies, exploring new ideas, and sharing my insights with the community.
 
