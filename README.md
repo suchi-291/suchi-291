@@ -1,4 +1,4 @@
-# Hi, I'm <Suchitha Ramachandrapurapu>! 🙋‍♀️
+# Hi, I'm Suchitha Ramachandrapurapu! 🙋‍♀️
 
 I am a passionate Front-end Developer, driven by a curiosity for technology and a love for Design. My journey involves delving into the world of Web Technologies, exploring new ideas, and sharing my insights with the community.
 
@@ -29,7 +29,7 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/RaoSuchitha)
-- Read more of my articles on my Linkedin profile[Suchitha_r](https://www.linkedin.com/in/suchitha-r/)
+- Read more of my articles on my Linkedin profile [Suchitha_r](https://www.linkedin.com/in/suchitha-r/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
