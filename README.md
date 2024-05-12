@@ -6,11 +6,13 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently Front-end Technologies.
+- 🔭 I'm currently learning Front-end Technologies.
 - 📝 I write in-depth, long-form articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
 
 ## My Articles
 - ![User Management in Wordpress]([https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/])
+- ![Design Hacks for your Websites to make them Look Great!](https://www.linkedin.com/pulse/take-your-website-from-good-great-easy-design-tips-ramachandrapurapu-ydiec/?trackingId=MNe10HG8RWi2QXU5dM5XDQ%3D%3D)
+- ![SEO Optimization in Wordpress](https://www.linkedin.com/pulse/how-optimize-your-wordpress-site-search-engines-ramachandrapurapu-cnnmc/?trackingId=MNe10HG8RWi2QXU5dM5XDQ%3D%3D)
 
 
 ## Tech Stack
@@ -18,37 +20,16 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🚀 Learning Front-End Web Development
+- 🚀 Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+- 🚀 Navigating through the world of React Router for seamless page transitions.
+  
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter]((https://twitter.com/RaoSuchitha))
+- Read more of my articles on my Linkedin profile[Suchitha_r](https://www.linkedin.com/in/suchitha-r/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
