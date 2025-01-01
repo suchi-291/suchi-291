@@ -7,12 +7,7 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 ## 🚀 About Me
 
 - 🔭 I'm currently learning Front-end Technologies.
-- 📝 I write articles related to wordpress on my linkedin [Suchitha_r](https://www.linkedin.com/in/suchitha-r/).
-
-## My Articles
-- [Recent articles](https://www.linkedin.com/in/suchitha-webdeveloper/recent-activity/articles/)
-- [Design Hacks for your Websites to make them Look Great!](https://www.linkedin.com/pulse/take-your-website-from-good-great-easy-design-tips-ramachandrapurapu-ydiec/?trackingId=MNe10HG8RWi2QXU5dM5XDQ%3D%3D)
-- [SEO Optimization in Wordpress](https://www.linkedin.com/pulse/how-optimize-your-wordpress-site-search-engines-ramachandrapurapu-cnnmc/?trackingId=MNe10HG8RWi2QXU5dM5XDQ%3D%3D)
+- 📝 I write articles related to html,css,js,react and web3 on my substack, find them on my linkedin profile [Suchitha_r](https://www.linkedin.com/in/suchitha-r-reactdeveloper/).
 
 
 ## Tech Stack
@@ -23,14 +18,14 @@ I am a passionate Front-end Developer, driven by a curiosity for technology and 
 - 🚀 Learning Front-End Web Development
 - 🚀 Exploring the ins and outs of React and Redux for dynamic front-end experiences.
 - 🚀 Navigating through the world of React Router for seamless page transitions.
-- 👩‍💻 Started #100DaysOfCoding Challenge and participating in Communinities - [FreeCodeCamp](https://discord.gg/freecodecamp), [theOdinProject](https://discord.gg/theodinproject)  
+- 👩‍💻 Started #100DaysOfCoding Challenge 2025  
 
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/RaoSuchitha)
-- Read more of my articles on my Linkedin profile [Suchitha_r](https://www.linkedin.com/in/suchitha-r/)
+- Read more of my articles on my Linkedin profile [Suchitha_r](https://www.linkedin.com/in/suchitha-r-reactdeveloper/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
