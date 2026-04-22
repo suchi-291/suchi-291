@@ -1,6 +1,7 @@
 # Hi, I'm Suchi! 🙋‍♀️
 
-I am a passionate Full Stack Developer, driven by curiosity for technology and a strong interest in building scalable, end-to-end web applications. I enjoy working across both frontend and backend, transforming ideas into real-world solutions and continuously learning modern development practices.
+I am a passionate Full Stack Developer, driven by curiosity for technology and a strong interest in building scalable, end-to-end web applications. I enjoy working across both frontend and backend, transforming ideas into real-world solutions.
+
 ![suchi-291's Stats](https://github-readme-stats.vercel.app/api?username=suchi-291&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
