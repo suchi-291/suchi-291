@@ -2,7 +2,7 @@
 
 I am a passionate Full Stack Developer, driven by curiosity for technology and a strong interest in building scalable, end-to-end web applications. I enjoy working across both frontend and backend, transforming ideas into real-world solutions.
 
-[![suchi-291 Stats](https://github-readme-stats.vercel.app/api?username=suchi-291&show_icons=true&theme=vue-dark&hide_border=true)]
+<!-- [![suchi-291 Stats](https://github-readme-stats.vercel.app/api?username=suchi-291&show_icons=true&theme=vue-dark&hide_border=true)] -->
 
 ## 🚀 About Me
 
